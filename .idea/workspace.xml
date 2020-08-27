@@ -1,40 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a4cb032-11fd-4363-aec8-7b447c53c3c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cmdsNSignals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/management/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/management/commands/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/management/commands/add_sample_user_optional_param.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/management/commands/add_sample_users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/management/commands/add_user_with_flag_args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/management/commands/show_date_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmdsNSignals/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmdsNSignals/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmdsNSignals/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmdsNSignals/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/remarks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_photos/webapp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_photos/webapp2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_photos/webapp_Cstq9Ou.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_photos/webapp_dPtX5RU.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userinfo.json" afterDir="false" />
+    <list default="true" id="1a4cb032-11fd-4363-aec8-7b447c53c3c5" name="Default Changelist" comment="newfile">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/sample.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +11,52 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="branch1" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gSNaxLcErvs2hiI0h8QCP6QpMe" />
@@ -74,6 +88,42 @@
       <option name="presentableId" value="Default" />
       <updated>1598422222385</updated>
     </task>
+    <task id="LOCAL-00001" summary="newfile">
+      <created>1598506243404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598506243404</updated>
+    </task>
+    <task id="LOCAL-00002" summary="newfile">
+      <created>1598506336608</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598506336608</updated>
+    </task>
+    <task id="LOCAL-00003" summary="newfile">
+      <created>1598509889712</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598509889712</updated>
+    </task>
+    <task id="LOCAL-00004" summary="newfile">
+      <created>1598530778453</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598530778453</updated>
+    </task>
+    <task id="LOCAL-00005" summary="newfile">
+      <created>1598535048546</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598535048546</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,5 +136,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="newfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="newfile" />
   </component>
 </project>
