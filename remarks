@@ -1,0 +1,46 @@
+
+
+
+
+
+without param -->	-->
+with manadatory param--> add_args -->	type
+with optional param		-->	add_args --> 	--
+with flag args			-->--  dont specify type --> boolean
+
+
+1.
+manage.py commandname
+
+2.
+manage.py commandname	param
+
+3.
+manage.py commandname param --value x
+manage.py commandname param
+
+4.
+manage.py commandname param --value
+manage.py commandname param
+
+
+
+
+	manage.py	create_user		10				--> mandatory param
+
+
+	present -> expected some value
+	absetnt --> no value
+
+	manage.py   create_user		--type admin	--> optional
+	manage.py   create_user						--> optional
+	manage.py   create_user		--type guest	--> optional
+
+
+	either present or absent
+
+	manage.py   create_user		--type 			---> flag present
+	manage.py   create_user			 			---> flag absent
+
+
+	manage.py add_user_with_flag_args 10
