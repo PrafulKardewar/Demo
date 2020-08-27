@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a4cb032-11fd-4363-aec8-7b447c53c3c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cmdsNSignals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/management/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/management/commands/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/management/commands/add_sample_user_optional_param.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/management/commands/add_sample_users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/management/commands/add_user_with_flag_args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/management/commands/show_date_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appone/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmdsNSignals/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmdsNSignals/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmdsNSignals/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmdsNSignals/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/remarks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_photos/webapp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_photos/webapp2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_photos/webapp_Cstq9Ou.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_photos/webapp_dPtX5RU.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userinfo.json" afterDir="false" />
-    </list>
+    <list default="true" id="1a4cb032-11fd-4363-aec8-7b447c53c3c5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598536771072</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="newfile">
+      <created>1598548481124</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1598548481124</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
