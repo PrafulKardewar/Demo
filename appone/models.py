@@ -16,6 +16,9 @@ class Address(models.Model):
     active = models.BooleanField(default=True)
     emps = models.ManyToManyField(Emp,related_name='adrs')
 
-
+class Company(models.Model):
+    name = models.CharField(max_length=10)
+    desig = models.CharField(max_length=10)
+    age = models.IntegerField()
 
 # 0--> True -->     python --False
