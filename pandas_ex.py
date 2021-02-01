@@ -4,8 +4,21 @@
 
 
 
-import pandas as pd
-dict = {'id':[1,2,3],'name':['praful','ravi','raju'],'age':[12,34,56]}
 
-df = pd.read_csv(r"C:\Users\lenovo\Desktop\Sample-Spreadsheet-10-rows.csv")
-print((df[3]))
+
+
+
+import time
+
+def compute(x):
+    response = response_api_call()
+    return response + x
+
+def response_api_call():
+    time.sleep(1000)
+    return 123
+
+def test_compute():
+    expected = 124
+    actual = compute(1)
+    assert expected == actual
